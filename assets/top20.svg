@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect x="0" y="0" width="1200" height="760" fill="#FAF6EF"/>
+  <rect x="40" y="36" width="1120" height="64" rx="14" fill="#B23A2E"/>
+  <text x="600" y="78" font-size="26" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">国内开发者必用 Top 20</text>
+  <rect x="40" y="120" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="56" y="138" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="222" cy="146" r="11" fill="#B23A2E"/>
+  <path d="M 216.5 147.5 L 220 151 L 228 141.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="144" y="198" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">和风天气</text>
+  <rect x="268" y="120" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="284" y="138" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="450" cy="146" r="11" fill="#B23A2E"/>
+  <path d="M 444.5 147.5 L 448 151 L 456 141.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="372" y="198" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">彩云天气</text>
+  <rect x="496" y="120" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="512" y="138" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="678" cy="146" r="11" fill="#B23A2E"/>
+  <path d="M 672.5 147.5 L 676 151 L 684 141.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="600" y="198" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">wttr.in</text>
+  <rect x="724" y="120" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="740" y="138" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="906" cy="146" r="11" fill="#B23A2E"/>
+  <path d="M 900.5 147.5 L 904 151 L 912 141.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="828" y="198" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">香港天文台</text>
+  <rect x="952" y="120" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="968" y="138" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="1134" cy="146" r="11" fill="#B23A2E"/>
+  <path d="M 1128.5 147.5 L 1132 151 L 1140 141.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1056" y="198" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">AQICN</text>
+  <rect x="40" y="276" width="208" height="136" rx="12" fill="#F2E8D8"/>
+  <rect x="56" y="294" width="7" height="7" fill="#B23A2E"/>
+  <circle cx="222" cy="302" r="11" fill="#B23A2E"/>
+  <path d="M 216.5 303.5 L 220 307 L 228 297.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="144" y="354" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">PM25.in</text>
+  <rect x="268" y="276" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="284" y="294" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 450 293 L 459 309 L 441 309 Z" fill="#B23A2E"/>
+  <line x1="450" y1="298.5" x2="450" y2="303.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="450" cy="306.8" r="1.7" fill="#FFFFFF"/>
+  <text x="372" y="354" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">OpenWeatherMap</text>
+  <rect x="496" y="276" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="512" y="294" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 678 293 L 687 309 L 669 309 Z" fill="#B23A2E"/>
+  <line x1="678" y1="298.5" x2="678" y2="303.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="678" cy="306.8" r="1.7" fill="#FFFFFF"/>
+  <text x="600" y="354" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">CoinGecko</text>
+  <rect x="724" y="276" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="740" y="294" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 906 293 L 915 309 L 897 309 Z" fill="#B23A2E"/>
+  <line x1="906" y1="298.5" x2="906" y2="303.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="906" cy="306.8" r="1.7" fill="#FFFFFF"/>
+  <text x="828" y="354" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">CoinCap</text>
+  <rect x="952" y="276" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="968" y="294" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 1134 293 L 1143 309 L 1125 309 Z" fill="#B23A2E"/>
+  <line x1="1134" y1="298.5" x2="1134" y2="303.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="1134" cy="306.8" r="1.7" fill="#FFFFFF"/>
+  <text x="1056" y="354" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Frankfurter</text>
+  <rect x="40" y="432" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="56" y="450" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 222 449 L 231 465 L 213 465 Z" fill="#B23A2E"/>
+  <line x1="222" y1="454.5" x2="222" y2="459.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="222" cy="462.8" r="1.7" fill="#FFFFFF"/>
+  <text x="144" y="510" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">ExchangeRate-API</text>
+  <rect x="268" y="432" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="284" y="450" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 450 449 L 459 465 L 441 465 Z" fill="#B23A2E"/>
+  <line x1="450" y1="454.5" x2="450" y2="459.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="450" cy="462.8" r="1.7" fill="#FFFFFF"/>
+  <text x="372" y="510" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">IPify</text>
+  <rect x="496" y="432" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="512" y="450" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 678 449 L 687 465 L 669 465 Z" fill="#B23A2E"/>
+  <line x1="678" y1="454.5" x2="678" y2="459.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="678" cy="462.8" r="1.7" fill="#FFFFFF"/>
+  <text x="600" y="510" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">IPinfo</text>
+  <rect x="724" y="432" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="740" y="450" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 906 449 L 915 465 L 897 465 Z" fill="#B23A2E"/>
+  <line x1="906" y1="454.5" x2="906" y2="459.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="906" cy="462.8" r="1.7" fill="#FFFFFF"/>
+  <text x="828" y="510" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">ip-api</text>
+  <rect x="952" y="432" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="968" y="450" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 1134 449 L 1143 465 L 1125 465 Z" fill="#B23A2E"/>
+  <line x1="1134" y1="454.5" x2="1134" y2="459.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="1134" cy="462.8" r="1.7" fill="#FFFFFF"/>
+  <text x="1056" y="510" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">GitHub API</text>
+  <rect x="40" y="588" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="56" y="606" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 222 605 L 231 621 L 213 621 Z" fill="#B23A2E"/>
+  <line x1="222" y1="610.5" x2="222" y2="615.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="222" cy="618.8" r="1.7" fill="#FFFFFF"/>
+  <text x="144" y="666" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">JSONPlaceholder</text>
+  <rect x="268" y="588" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="284" y="606" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 450 605 L 459 621 L 441 621 Z" fill="#B23A2E"/>
+  <line x1="450" y1="610.5" x2="450" y2="615.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="450" cy="618.8" r="1.7" fill="#FFFFFF"/>
+  <text x="372" y="666" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Nominatim</text>
+  <rect x="496" y="588" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="512" y="606" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 678 605 L 687 621 L 669 621 Z" fill="#B23A2E"/>
+  <line x1="678" y1="610.5" x2="678" y2="615.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="678" cy="618.8" r="1.7" fill="#FFFFFF"/>
+  <text x="600" y="666" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Open Library</text>
+  <rect x="724" y="588" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="740" y="606" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 906 605 L 915 621 L 897 621 Z" fill="#B23A2E"/>
+  <line x1="906" y1="610.5" x2="906" y2="615.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="906" cy="618.8" r="1.7" fill="#FFFFFF"/>
+  <text x="828" y="666" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">VirusTotal</text>
+  <rect x="952" y="588" width="208" height="136" rx="12" fill="#E8E0D2"/>
+  <rect x="968" y="606" width="7" height="7" fill="#B23A2E"/>
+  <path d="M 1134 605 L 1143 621 L 1125 621 Z" fill="#B23A2E"/>
+  <line x1="1134" y1="610.5" x2="1134" y2="615.5" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="1134" cy="618.8" r="1.7" fill="#FFFFFF"/>
+  <text x="1056" y="666" font-size="16" fill="#1F1B16" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">HIBP</text>
+</svg>
