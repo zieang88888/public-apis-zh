@@ -18,6 +18,8 @@
 
 ---
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## ✨ 为什么值得收藏
 
 - **345 个精选 API / 34 个分类**：按原仓库分类结构整理，中文分类名一目了然；
@@ -112,7 +114,7 @@
 > 从猫狗卖萌到鸟类迁徙与 IUCN 红色名录，动物主题免费 API 一次收齐。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | The Cat API | 海量猫咪图片与品种数据，萌宠类应用常用素材源 | API Key | ✅ | ❌ | ⚠️ 需代理或时好时坏 | [官网](https://docs.thecatapi.com/) |
 | Dog API（dog.ceo） | 基于斯坦福犬类数据集的随机狗狗图片接口，免密钥 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://dog.ceo/dog-api/) |
 | HTTP Cat | 每个 HTTP 状态码配一张猫图，调试报错时的经典梗 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://http.cat/) |
@@ -129,7 +131,7 @@
 > 番剧数据库、截图找番到吉卜力资料，二次元开发者必备清单。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Jikan | 非官方 MyAnimeList 接口，番剧评分排行数据齐全 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://jikan.moe) |
 | AniList | 热门追番社区，GraphQL 接口灵活获取番剧数据 | OAuth | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://github.com/AniList/ApiV2-GraphQL-Docs) |
 | MyAnimeList | 全球最大动漫评分社区官方 API | OAuth | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://myanimelist.net/clubs.php?cid=13727) |
@@ -146,7 +148,7 @@
 > 安全团队常用的威胁情报库与文件、URL 沙箱检测接口。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | VirusTotal | 老牌多引擎文件与 URL 扫描平台，一次调用聚合数十款杀软结果 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://docs.virustotal.com/reference/overview) |
 | URLScan.io | 在隔离浏览器中抓取分析 URL，留存页面截图与全部网络请求 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://urlscan.io/about-api/) |
 | AbuseIPDB | 社区共建的 IP、域名、URL 信誉库，可查黑名单也可举报恶意地址 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://docs.abuseipdb.com/) |
@@ -158,7 +160,7 @@
 > 图标、配色、占位图到博物馆开放数据，设计师与前端都用得上。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Iconify | 聚合 200+ 开源图标库，一处检索 SVG 图标 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://iconify.design/docs/api/) |
 | Icons8 | 老牌图标素材库，按风格与场景检索图标 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://img.icons8.com/) |
 | The Color API | 颜色格式转换与配色方案生成工具接口 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://www.thecolorapi.com) |
@@ -175,7 +177,7 @@
 > 登录注册、无密码认证与权限控制的一站式基础设施。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Auth0 | 主流身份认证云平台，支持社交登录与多租户 | API Key | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://auth0.com) |
 | GetOTP | 快速接入一次性验证码 OTP 发送与校验流程 | API Key | ✅ | ❌ | ⚠️ 需代理或时好时坏 | [官网](https://otp.dev/en/docs/) |
 | Micro User Service | 轻量级用户管理与认证微服务 | API Key | ✅ | ❌ | ⚠️ 需代理或时好时坏 | [官网](https://m3o.com/user) |
@@ -189,7 +191,7 @@
 > 链上数据查询、区块浏览与 RPC 节点服务，Web3 开发的基础设施。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- --- | --- | --- | --- |
 | Etherscan | 以太坊最主流的区块浏览器，查地址、交易与合约的标配接口 | API Key | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://etherscan.io/apis) |
 | The Graph | 为以太坊等网络建索引，用 GraphQL 高效查询链上数据 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://thegraph.com) |
 | Chainlink | 去中心化预言机网络，给智能合约接入外部数据与可验证随机数 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://chain.link/developer-resources) |
@@ -208,7 +210,7 @@
 > 从开放书目到宗教经典与诗歌，书籍文献类免费接口汇总。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- --- | --- | --- | --- |
 | Open Library | 互联网档案馆发起的开放书目与封面数据库 | 无 | ✅ | ❌ | ⚠️ 需代理或时好时坏 | [官网](https://openlibrary.org/developers/api) |
 | Google Books | Google 图书搜索与全文检索开发者接口 | OAuth | ✅ | 未知 | ❌ 国内不可用 | [官网](https://developers.google.com/books/) |
 | Gutendex | 古腾堡计划公共领域电子书的元数据接口 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://gutendex.com/) |
@@ -259,7 +261,7 @@
 > 从网盘到临时文件分享，开发者常用存储 API。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- | --- |
 | Dropbox | 知名云存储与文件共享，支持可编程访问 | OAuth | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://www.dropbox.com/developers) |
 | Box | 企业级文件存储与共享平台 | OAuth | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://developer.box.com/) |
 | Google Drive | 谷歌云盘，文件存储与共享 | OAuth | ✅ | 未知 | ❌ 国内不可用 | [官网](https://developers.google.com/drive/) |
@@ -276,7 +278,7 @@
 > 汇率查询与货币换算接口，跨境电商、记账 App 的必备工具。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- | --- |
 | Frankfurter | 基于欧洲央行数据的免费汇率接口，支持时间序列，无需密钥 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://www.frankfurter.app/docs) |
 | ExchangeRate-API | 免费货币换算服务，覆盖 160+ 币种，接入门槛低 | API Key | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://www.exchangerate-api.com) |
 | Exchange Rates API | 老牌汇率服务，实时汇率加货币换算，免费档每日更新 | API Key | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://exchangeratesapi.io) |
@@ -293,7 +295,7 @@
 > 主流交易所行情与链上数据接口，做行情看板和量化脚本的首选。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- | --- |
 | CoinGecko | 免密钥的币价与市值数据，覆盖上万币种，开发者口碑最佳 | 无 | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](http://www.coingecko.com/api) |
 | CoinMarketCap | 全球知名加密货币行情排名站，免费档可查价格与成交量 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://coinmarketcap.com/api/) |
 | CoinCap | 免密钥的 RESTful 实时币价接口，文档简洁适合快速上手 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://docs.coincap.io/) |
@@ -312,7 +314,7 @@
 > 地址、税号、内容合规等校验接口，表单与风控场景的好帮手。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- |
 | Postman Echo | 测试用回显服务器，把请求内容原样返回，调试接口必备 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://www.postman-echo.com) |
 | PurgoMalum | 免费的脏话与不雅内容过滤接口，适合用户输入预处理 | 无 | ❌ | 未知 | ⚠️ 需代理或时好时坏 | [官网](http://www.purgomalum.com) |
 | Lob.com | 美国地址校验服务，顺带支持打印邮寄，开发者体验友好 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://lob.com/) |
@@ -329,7 +331,7 @@
 > 开发者日常实用工具：IP 查询、测试 API、图表生成等。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- |
 | GitHub API | 可编程访问仓库、代码与用户信息，开发者必备 | OAuth | ✅ | ✅ | ⚠️ 需代理或时好时坏 | [官网](https://docs.github.com/en/free-pro-team@latest/rest) |
 | IPify | 极简公网 IP 查询 API，免密钥即开即用 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://www.ipify.org/) |
 | IPinfo | IP 地理位置查询，支持城市、国家与 ASN | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://ipinfo.io/developers) |
@@ -351,7 +353,7 @@
 > 英语词典与汉字查询，做翻译和语言学习应用必备。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- | --- |
+| --- | --- --- | --- --- |
 | Chinese Character Web | 汉字字义与发音查询，面向中文学习者 | 无 | ❌ | ❌ | ⚠️ 需代理或时好时坏 | [官网](http://ccdb.hemiola.com/) |
 | Chinese Text Project | 中国古籍开放数字图书馆，先秦至清代文献 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://ctext.org/tools/api) |
 | Free Dictionary | 免费英语词典，含音标、词性、例句与同义词 | 无 | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://dictionaryapi.dev/) |
@@ -366,7 +368,7 @@
 > 空气质量、碳排放与能源数据：从国内 PM2.5 到碳足迹计算，环保应用的底层燃料。
 
 | 中文名称 | 一句话说明 | 鉴权 | HTTPS | CORS | 国内可访问 | 官网 |
-| --- | --- --- | --- | --- --- |
+| --- | --- --- | --- --- |
 | PM25.in 中国空气质量 | 国内城市 PM2.5 与空气质量实况，老牌公益接口 | API Key | ❌ | 未知 | ✅ 可直接访问 | [官网](http://www.pm25.in/api_doc) |
 | OpenAQ | 全球开放空气质量数据库，汇总多国监测站点 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://docs.openaq.org/) |
 | IQAir | 全球空气质量与天气数据，覆盖数千城市 | API Key | ✅ | 未知 | ⚠️ 需代理或时好时坏 | [官网](https://www.iqair.com/air-pollution-data-api) |
@@ -713,3 +715,16 @@
 ---
 
 <p align="center">made with ❤️ by <a href="https://github.com/zieang88888">zieang88888</a> · 高星仓库中文解读系列第 8 弹</p>
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
