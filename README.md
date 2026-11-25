@@ -718,6 +718,7 @@
 - [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
 - [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 - [Sports Odds API](https://apify.com/publicrecords/sports-odds-api) - Live odds from 24 Kambi-powered sportsbooks (BetRivers, Unibet, Paf...) with best price per outcome (Apify Actor, API + MCP).
+- [Tennis Scores API](https://apify.com/publicrecords/tennis-scores-api) - ATP 与 WTA 比分、赛果和排名（Apify Actor，仅 REST API；未提供 Standby/MCP）。
 - [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 - [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
 - [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
